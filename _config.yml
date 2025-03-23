@@ -9,18 +9,11 @@ description: >
 
 theme: jekyll-theme-minimal
 
-# Optional but recommended
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
   name: "Larry Chen"
   email: "larry.chen@upperboat.com"
-
-# SEO and social sharing
-social:
-  name: "Larry Chen"
-  links:
-    - https://www.linkedin.com/in/larrychencpa/
 
 # Build settings
 markdown: kramdown
